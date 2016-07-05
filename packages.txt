@@ -17,3 +17,6 @@ jumpy
 atom-beautify
 clang-format
 wordcount
+autocomplete-python
+language-awk
+linter-python
