@@ -1,0 +1,13 @@
+build-essential
+g++
+gcc
+make
+cmake
+curl
+git
+default-jre
+parallel
+python-pip
+python-dev
+vim
+htop
