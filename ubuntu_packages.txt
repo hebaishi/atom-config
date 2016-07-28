@@ -15,3 +15,4 @@ terminator
 screen
 ipython
 p7zip-full
+clang-format

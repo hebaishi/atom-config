@@ -20,3 +20,4 @@ wordcount
 autocomplete-python
 language-awk
 linter-python
+clang-format
