@@ -31,3 +31,7 @@
 
 'atom-text-editor':
   'f6': 'latex:sync'
+
+'body':
+  'ctrl-alt-shift-left': 'editor:move-selection-left'
+  'ctrl-alt-shift-right': 'editor:move-selection-right'
