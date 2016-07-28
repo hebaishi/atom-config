@@ -11,3 +11,7 @@ python-pip
 python-dev
 vim
 htop
+terminator
+screen
+ipython
+p7zip-full
